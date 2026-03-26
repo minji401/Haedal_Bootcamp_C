@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Haedal/Haedal.vcxproj" />
+  <Project Path="Haedal/Haedal.vcxproj" Id="3f869afb-cd4a-4327-9a40-dd4d9ce3090b" />
 </Solution>
