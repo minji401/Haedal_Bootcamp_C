@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="문자/문자.vcxproj" />
+  <Project Path="문자열 반복/문자열 반복.vcxproj" />
+  <Project Path="상수/상수.vcxproj" />
+  <Project Path="최댓값/최댓값.vcxproj" />
+  <Project Path="행렬 덧셈/행렬 덧셈.vcxproj" />
+</Solution>
