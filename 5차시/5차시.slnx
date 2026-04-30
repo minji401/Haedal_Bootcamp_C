@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="동적할당/동적할당.vcxproj" />
+  <Project Path="파일입출력/파일입출력.vcxproj" />
+</Solution>
